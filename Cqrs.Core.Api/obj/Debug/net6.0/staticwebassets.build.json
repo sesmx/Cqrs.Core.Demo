@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xsgc87jRwrEuZ1UZyeOk5TmnX2GNGyKAIc03oQTjg3Y=",
+  "Source": "Cqrs.Core.Api",
+  "BasePath": "_content/Cqrs.Core.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
