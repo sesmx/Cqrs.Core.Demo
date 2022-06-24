@@ -1,5 +1,5 @@
 # Cqrs.Core.Demo
-CQRS API Example
+CQRS API Example. Currently using MariaDB installed as a docker container with port number: 55001
 
 ## Database Schema
 
