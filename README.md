@@ -1,5 +1,8 @@
 # Cqrs.Core.Demo
 CQRS API Example
+
+## Database Schema
+
 ```
 CREATE DATABASE `BookStore` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
 ```
